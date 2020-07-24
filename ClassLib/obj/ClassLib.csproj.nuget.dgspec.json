@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mgwelch/Documents/repos/garbage/ClassLib/ClassLib.csproj": {}
+    "/Users/mgwelch/Documents/repos/garbage2/ClassLib/ClassLib.csproj": {}
   },
   "projects": {
-    "/Users/mgwelch/Documents/repos/garbage/ClassLib/ClassLib.csproj": {
+    "/Users/mgwelch/Documents/repos/garbage2/ClassLib/ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mgwelch/Documents/repos/garbage/ClassLib/ClassLib.csproj",
+        "projectUniqueName": "/Users/mgwelch/Documents/repos/garbage2/ClassLib/ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "/Users/mgwelch/Documents/repos/garbage/ClassLib/ClassLib.csproj",
+        "projectPath": "/Users/mgwelch/Documents/repos/garbage2/ClassLib/ClassLib.csproj",
         "packagesPath": "/Users/mgwelch/.nuget/packages/",
-        "outputPath": "/Users/mgwelch/Documents/repos/garbage/ClassLib/obj/",
+        "outputPath": "/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mgwelch/.nuget/NuGet/NuGet.Config"

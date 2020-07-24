@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mgwelch/.dotnet/store/|arch|/|tfm|",
+      "/Users/mgwelch/.nuget/packages"
+    ]
+  }
+}

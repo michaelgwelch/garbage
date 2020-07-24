@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5diqiQa1JrLcYF0jolgqH0b5RloAKIA7pzUzNg0r7trjui1i0ArgVMxSuvp80NNnsJVMa+2geYisFAL1AwEdWw==",
+  "dgSpecHash": "iC0ofOjS6pq/LI4WcDjPBRbv2/d9OGT8IouSqBNW2AXd0o5KW2Q9I5+U32OEMVAVfGojYlRerH+d8CIf2JoNnA==",
   "success": true,
-  "projectFilePath": "/Users/mgwelch/Documents/repos/garbage/ClassLib/ClassLib.csproj",
+  "projectFilePath": "/Users/mgwelch/Documents/repos/garbage2/ClassLib/ClassLib.csproj",
   "expectedPackageFiles": [
     "/Users/mgwelch/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/mgwelch/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

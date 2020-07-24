@@ -1,0 +1,9 @@
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/bin/Debug/netstandard2.0/ClassLib.deps.json
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/bin/Debug/netstandard2.0/ClassLib.dll
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/bin/Debug/netstandard2.0/ClassLib.pdb
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.csprojAssemblyReference.cache
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.AssemblyInfoInputs.cache
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.AssemblyInfo.cs
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.csproj.CoreCompileInputs.cache
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.dll
+/Users/mgwelch/Documents/repos/garbage2/ClassLib/obj/Debug/netstandard2.0/ClassLib.pdb

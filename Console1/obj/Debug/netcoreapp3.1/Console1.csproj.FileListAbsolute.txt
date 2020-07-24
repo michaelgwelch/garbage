@@ -1,0 +1,15 @@
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/Console1.deps.json
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/Console1.runtimeconfig.json
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/Console1.runtimeconfig.dev.json
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/Console1.dll
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/Console1.pdb
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/ClassLib.dll
+/Users/mgwelch/Documents/repos/garbage2/Console1/bin/Debug/netcoreapp3.1/ClassLib.pdb
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.csprojAssemblyReference.cache
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.AssemblyInfoInputs.cache
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.AssemblyInfo.cs
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.csproj.CoreCompileInputs.cache
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.csproj.CopyComplete
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.dll
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.pdb
+/Users/mgwelch/Documents/repos/garbage2/Console1/obj/Debug/netcoreapp3.1/Console1.genruntimeconfig.cache
